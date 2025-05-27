@@ -315,7 +315,7 @@ const UserForm = () => {
                 ) : (
                   <>
                     <Send className="h-5 w-5 mr-2" />
-                    Send to Database
+                    Send
                   </>
                 )}
               </Button>
